@@ -161,7 +161,7 @@ header {
 }
 .carousel .overview {	
 	font-style: italic;
-  color: #d9d9d9;
+  color: black;
 }
 .carousel .overview b {
 	text-transform: uppercase;
